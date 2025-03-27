@@ -1,5 +1,6 @@
-pandas
-streamlit
-matplotlib>=3.4.0
-statsmodels
-openpyxl
+streamlit==1.23.1
+pandas==1.4.2
+matplotlib==3.5.2
+statsmodels==0.14.1
+openpyxl==3.1.2
+
